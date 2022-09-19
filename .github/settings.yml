@@ -3,6 +3,6 @@
 # Ansible managed
 #
 repository:
-  description: Install and configure dryrun on your system.
+  description: Try a few things with Ansible.
   homepage: https://robertdebock.nl/
   topics: dryrun, ansible, molecule, tox, playbook, hacktoberfest

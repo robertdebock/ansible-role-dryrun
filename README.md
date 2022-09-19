@@ -1,10 +1,10 @@
 # [dryrun](#dryrun)
 
-Install and configure dryrun on your system.
+Try a few things with Ansible.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/robertdebock/ansible-role-dryrun/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-dryrun/actions)|[![gitlab](https://gitlab.com/robertdebock/ansible-role-dryrun/badges/master/pipeline.svg)](https://gitlab.com/robertdebock/ansible-role-dryrun)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/robertdebock/dryrun)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/robertdebock/dryrun)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-dryrun.svg)](https://github.com/robertdebock/ansible-role-dryrun/releases/)|
+|[![github](https://github.com/robertdebock/ansible-role-dryrun/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-dryrun/actions)|[![gitlab](https://gitlab.com/robertdebock/ansible-role-dryrun/badges/master/pipeline.svg)](https://gitlab.com/robertdebock/ansible-role-dryrun)|[![quality](https://img.shields.io/ansible/quality/60375)](https://galaxy.ansible.com/robertdebock/dryrun)|[![downloads](https://img.shields.io/ansible/role/d/60375)](https://galaxy.ansible.com/robertdebock/dryrun)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-dryrun.svg)](https://github.com/robertdebock/ansible-role-dryrun/releases/)|
 
 ## [Example Playbook](#example-playbook)
 

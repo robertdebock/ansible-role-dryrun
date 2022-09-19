@@ -2,7 +2,7 @@
 galaxy_info:
   author: robertdebock
   role_name: dryrun
-  description: Install and configure dryrun on your system.
+  description: Try a few things with Ansible.
   license: Apache-2.0
   company: none
   min_ansible_version: "2.10"
