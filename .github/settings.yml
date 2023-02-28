@@ -5,4 +5,4 @@
 repository:
   description: Try a few things with Ansible.
   homepage: https://robertdebock.nl/
-  topics: dryrun, ansible, molecule, tox, playbook, hacktoberfest
+  topics: dryrun, ansible, molecule, tox, playbook
