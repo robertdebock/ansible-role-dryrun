@@ -1,4 +1,4 @@
-# Ansible role [dryrun](#dryrun)
+# [Ansible role dryrun](#dryrun)
 
 Try a few things with Ansible.
 
